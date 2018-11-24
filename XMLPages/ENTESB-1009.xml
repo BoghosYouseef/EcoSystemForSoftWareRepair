@@ -1,0 +1,13 @@
+
+<rss version="0.92" >
+<channel>
+    <title>JBoss Issue Tracker</title>
+    <link>https://issues.jboss.org</link>
+    <description>This file is an XML representation of an issue</description>
+    <language>en-us</language>    <build-info>
+        <version>7.12.1</version>
+        <build-number>712002</build-number>
+        <build-date>05-09-2018</build-date>
+    </build-info>
+</channel>
+</rss>
